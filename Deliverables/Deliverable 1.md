@@ -16,7 +16,7 @@
   
   #### Estimates
 
-### 3) Project Risks 
+### 3) Project Risks - Phillip Nikolov
 
   #### Risk identification
   
