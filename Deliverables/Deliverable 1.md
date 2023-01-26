@@ -35,10 +35,17 @@
 ### 5) Project Resources
 
   #### People
+    We have our team to reach out to
+    And as of the first week don't have anyone else to reach out to
   
   #### Hardware
+    Each person should have there own computer and the ability to make a development server.
+    We will need a server to host the website and the back-end
   
   #### Software
+    We will be using github for source control
+    Our frontend will use `React.js` as a component library
+    The backend will use `Django` and `SQLite`
 
 ### 6) Activity Log
 
