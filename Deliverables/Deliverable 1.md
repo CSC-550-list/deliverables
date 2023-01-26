@@ -1,6 +1,6 @@
 # "Software Project Plan Document" Outline 
 
-### 1) Introduction
+### 1) Introduction -- Elif Sahin
 
   #### Project statement and objectives
   
