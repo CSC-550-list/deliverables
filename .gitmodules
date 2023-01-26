@@ -1,0 +1,6 @@
+[submodule "front-end"]
+	path = front-end
+	url = git@github.com:CSC-550-list/front-end.git
+[submodule "back-end"]
+	path = back-end
+	url = git@github.com:CSC-550-list/back-end.git
