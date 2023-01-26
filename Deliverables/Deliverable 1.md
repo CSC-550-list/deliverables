@@ -8,7 +8,7 @@
   
   ####  Performance issues (if any)
 
-### 2) Project Estimates
+### 2) Project Estimates - Bulut Tok
 
   #### Historical data used for estimation
   
@@ -16,7 +16,7 @@
   
   #### Estimates
 
-### 3) Project Risks - Bulut Tok
+### 3) Project Risks 
 
   #### Risk identification
   
