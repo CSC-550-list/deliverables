@@ -32,7 +32,7 @@
   
   #### Time-line chart (Gantt chart)
 
-### 5) Project Resources
+### 5) Project Resources - Kyle Moran
 
   #### People
     We have our team to reach out to
@@ -47,9 +47,9 @@
     Our frontend will use `React.js` as a component library
     The backend will use `Django` and `SQLite`
 
-### 6) Activity Log
+### 6) Activity Log - Brian Alvarez
 
-  #### Reading time
+  #### Reading time 
   
   #### Project time
   
