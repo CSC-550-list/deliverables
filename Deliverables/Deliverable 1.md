@@ -95,10 +95,21 @@ The team spent 60 minutes completing the following:
     Labeling sections and folders (5 minutes)
     
     Adding members and setting up the start of the project (10 minutes)
-
-  #### Meeting time
+    
+| Meeting Weeks | Kyle Moran | Elif Sahin | Bulut Tok | Philip Nikolov | Temo Meza-Pantoja | Brian Alvarez |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Week 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| Week 2 | 1 | 1 | 1 | 1 | 1 | 1 |
+| Week 3 | 1 | 1 | 1 | 1 | 1 | 1 | 
+| Week 4 |
+| Week 5 | 
+| Week 6 | 
+| Week 7 | 
+| Week 8 |
+| Week 9 | 
+| Week 10 |
   
-  #### Agenda and meeting minutes
+  #### Agenda and Meeting Minutes
   01/31/2023      Meeting One: Deliverable #1; 60 minutes
   
 	Our goal for meeting one includes:
@@ -108,5 +119,20 @@ The team spent 60 minutes completing the following:
     Review the project and deliverable #1 requirements
     
     Create the Github Page, folders, and distribute link
+    
+###### Chart of hours spent per week working on the project for each team member    
+| Meeting Dates | Hours spent in Meeting | Date |
+| :---: | :---: | :---: | 
+| Week 1 | 1 | 01/24/2023
+| Week 2 | 1 | 01/31/2023
+| Week 3 | .5 | 02/07/2023 
+| Week 4 |
+| Week 5 | 
+| Week 6 | 
+| Week 7 | 
+| Week 8 |
+| Week 9 | 
+| Week 10 |
+
 
 ### 7) Appendices
