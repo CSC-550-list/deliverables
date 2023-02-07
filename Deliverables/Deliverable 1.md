@@ -32,9 +32,35 @@
 
   #### Risk identification
   
+  	With creating a website, there are multiple risks involved that we need to keep in mind and account for.
+	
+	Some of these Risks include: 
+	1. Website performance
+	2. Scope creep, AKA changing requirements as the project progresses
+	3. Underestimation of time/resource commitment to complete the website
+	4. Attacks that could take down our website such as DDoS attacks
+	5. Attacks that attempt to alter data within the website such as SQL injections
+	6. Attacks that can steal user data and prevent the user from using the site
+  
   #### Risk estimation
+  	
+	Website performance could become an issue if the website becomes larger, or becomes used by more people than the server was meant to handle. This should not be a large issue for our purposes.
+	
+	Scope creep can become an issue if multiple additional features get added to the project if the original planned project features have not been implemented yet. This can drag the project on longer than it needs to go.
+	
+	Underestimation of time and bad time management will likely be the biggest issue of this project as this project could grow. Without proper management, work could be divided unevenly and not get completed as a result.
+	
+	As for security, risk of a cyberattack is low, as this web application will likely not be used by many users, and this project will be relatively unknown outside of the development team. 
   
   #### Risk resolution
+  
+  	If website performance becomes an issue, there are two possible solutions to improve the performance. First, is to modify the code to be more efficient in terms of time complexity, and the Second is to upgrade the server that the website is hosted on.
+	
+	Scope Creep: If too many features become part of the project plan, then the schedule for implementing these featres will be altered to include all the important features that make the website run well before the deadline. Then and only then will extra features be added to the project if time permits.
+	
+	Time management: In order to combat bad time management, a schedule will be created within the development group with a plan for every member of the group. This way, each developer will have their own part of the project and know what they need to do.
+	
+	Security risks: In order to prevent attacks, developers will implement secure coding solutions to avoid vulnerabilities within the project.
 
 ### 4) Schedule
 
@@ -95,44 +121,19 @@ The team spent 60 minutes completing the following:
     Labeling sections and folders (5 minutes)
     
     Adding members and setting up the start of the project (10 minutes)
-    
-| Meeting Weeks | Kyle Moran | Elif Sahin | Bulut Tok | Philip Nikolov | Temo Meza-Pantoja | Brian Alvarez |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Week 1 | 1 | 1 | 1 | 1 | 1 | 1 |
-| Week 2 | 1 | 1 | 1 | 1 | 1 | 1 |
-| Week 3 | 1 | 1 | 1 | 1 | 1 | 1 | 
-| Week 4 |
-| Week 5 | 
-| Week 6 | 
-| Week 7 | 
-| Week 8 |
-| Week 9 | 
-| Week 10 |
+
+  #### Meeting time
   
-  #### Agenda and Meeting Minutes
+  #### Agenda and meeting minutes
   01/31/2023      Meeting One: Deliverable #1; 60 minutes
   
 	Our goal for meeting one includes:
 	
     Meet and greet for team members 
     
-    Review the project and deliverable #1 requirements
+    Reviewing the project and deliverable #1 requirements
     
-    Create the Github Page, folders, and distribute link
-    
-###### Chart of hours spent per week working on the project for each team member    
-| Meeting Dates | Hours spent in Meeting | Date |
-| :---: | :---: | :---: | 
-| Week 1 | 1 | 01/24/2023
-| Week 2 | 1 | 01/31/2023
-| Week 3 | .5 | 02/07/2023 
-| Week 4 |
-| Week 5 | 
-| Week 6 | 
-| Week 7 | 
-| Week 8 |
-| Week 9 | 
-| Week 10 |
+    Creating the Github Page, folders, and distribution of the link
 
 
 ### 7) Appendices
