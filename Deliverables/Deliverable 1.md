@@ -62,11 +62,34 @@
 ### 6) Activity Log - Brian Alvarez
 
   #### Reading time 
-  
+  01/31/2023: 60 minutes	
+In the first meeting, the team reviewed the deliverable deadlines for the project and discussed the tasks required to remain on schedule for deliverable #1. Each team member chose one section from the seven sections (Introduction, Project Estimates, Project Risks, Schedule, Project Resources, Activity Log, and Appendices) needed for deliverable #1. The team also created the team’s Github page to collaborate and currently hold all project resources. On the GitHub page, the team created three folders: 
+  Deliverables - This folder will hold our written reports for deliverables.
+  Front-end - This folder will hold the files and code for our front-end development.
+  Back-end - his folder will hold the files and code for our Back-end development.
+Finally, the team shared numbers, connected, and reminded each other to complete their chosen deadline by the deliverable #1 deadline on 02/07/2023.
+
   #### Project time
-  
+The team spent 60 minutes completing the following:
+  Reviewing the project and deliverable #1 requirements (45 minutes)
+    Discussing requirements and delegating tasks (30 minutes)
+    Discussing the best approach to the project (15 minutes)
+      A few of the questions asked:
+         Which development stack will be best for the project?
+         Where will the website be hosted? 
+         Which days will we meet and discuss updates?
+  Creating the Github Page, folders, and distribution of the link (15 minutes)
+    Labeling sections and folders (5 minutes)
+    Adding members and setting up the start of the project (10 minutes)
+
   #### Meeting time
   
   #### Agenda and meeting minutes
+  01/31/2023      Meeting One: Deliverable #1; 60 minutes
+	Our goal for meeting one includes:
+    Meet and greet for team members 
+    Reviewing the project and deliverable #1 requirements
+    Creating the Github Page, folders, and distribution of the link
+
 
 ### 7) Appendices
