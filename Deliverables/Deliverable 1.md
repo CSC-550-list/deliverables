@@ -105,9 +105,8 @@ The team spent 60 minutes completing the following:
 	
     Meet and greet for team members 
     
-    Reviewing the project and deliverable #1 requirements
+    Review the project and deliverable #1 requirements
     
-    Creating the Github Page, folders, and distribution of the link
-
+    Create the Github Page, folders, and distribute link
 
 ### 7) Appendices
