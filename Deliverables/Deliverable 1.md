@@ -67,6 +67,7 @@ Security risks: In order to prevent attacks, developers will implement secure co
   #### Project work breakdown structure
   
   #### Task network (CPM)
+  ![CPM Image](https://github.com/CSC-550-list/deliverables/blob/main/CPMDiagram.png)
   
   #### Time-line chart (Gantt chart)
   ![Gantt Chart Image](https://github.com/CSC-550-list/deliverables/blob/main/GanttChart.PNG)
