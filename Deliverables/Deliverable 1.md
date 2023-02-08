@@ -62,13 +62,14 @@ Time management: In order to combat bad time management, a schedule will be crea
 
 Security risks: In order to prevent attacks, developers will implement secure coding solutions to avoid vulnerabilities within the project.
 
-### 4) Schedule
+### 4) Schedule - Temo Meza
 
   #### Project work breakdown structure
   
   #### Task network (CPM)
   
   #### Time-line chart (Gantt chart)
+  ![Gantt Chart Image](https://github.com/CSC-550-list/deliverables/blob/main/GanttChart.PNG)
 
 ### 5) Project Resources - Kyle Moran
 
