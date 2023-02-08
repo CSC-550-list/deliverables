@@ -65,6 +65,7 @@ Security risks: In order to prevent attacks, developers will implement secure co
 ### 4) Schedule - Temo Meza
 
   #### Project work breakdown structure
+  ![Work Breakdown Image](https://github.com/CSC-550-list/deliverables/blob/main/WorkBreakdownStructure.png)
   
   #### Task network (CPM)
   ![CPM Image](https://github.com/CSC-550-list/deliverables/blob/main/CPMDiagram.png)
