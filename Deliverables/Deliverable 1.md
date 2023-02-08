@@ -90,6 +90,7 @@ Security risks: In order to prevent attacks, developers will implement secure co
 
   #### Reading time 
   01/31/2023: 60 minutes	
+
 In the first meeting, the team reviewed the deliverable deadlines for the project and discussed the tasks required to remain on schedule for deliverable #1. Each team member chose one section from the seven sections (Introduction, Project Estimates, Project Risks, Schedule, Project Resources, Activity Log, and Appendices) needed for deliverable #1. The team also created the team’s Github page to collaborate and currently hold all project resources. On the GitHub page, the team created three folders: 
 
   Deliverables - This folder will hold our written reports for deliverables.
