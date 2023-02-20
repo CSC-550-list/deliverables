@@ -39,8 +39,7 @@ Some of these Risks include:
 2. Scope creep, AKA changing requirements as the project progresses
 3. Underestimation of time/resource commitment to complete the website
 4. Attacks that could take down our website such as DDoS attacks
-5. Attacks that attempt to alter data within the website such as SQL injections
-6. Attacks that can steal user data and prevent the user from using the site
+5. Attacks that attempt to alter or steal data within the website such as SQL injections
   
   #### Risk estimation
   
